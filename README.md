@@ -46,5 +46,8 @@ Based on the analysis visualized in the Amazon Product Review Dashboard, the fol
    - Encourage customers with discounted incentives or follow -up emails to encourage more reviews, especially for under-reviewed categories.
    - Products with 4-5stars rating reflect customer satisfaction. Such products can be featured on products pages and marketing materials to reinforce trust and to gain more customers.
 
+Full Report[Download the Amazon Product Review Project.xlsx]
+(Amazon%20Product%20Review%20Project.xlsx)
+
 
 
