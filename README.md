@@ -35,4 +35,7 @@ The EDA involved exploring the data to solve questions such as:
    - Total number of reviews per category
    - Total potential revenue by category, etc.
 
+     
+![Amazon Dashboard](https://github.com/user-attachments/assets/004f4323-7a60-4d60-bd5b-942b2d53f8e4)
+
 
