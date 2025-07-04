@@ -19,6 +19,20 @@ This project is an overview of Amazon products and customer review data. It high
 
 ## Tool-Used
 - Ms. Excel
-   i.	Data cleaning
-   ii.	Data Analysis using Pivot table
+   -  	Data cleaning
+   - 	Data Analysis using Pivot table
+
+## Data Cleaning
+I performed the following actions
+   - Data loading and inspection.
+   - Data cleaning and formatting.
+   - Creating of new columns.
+
+## Exploratory Data Analysis
+The EDA involved exploring the data to solve questions such as:
+   - Number of products by category
+   - Distribution of product ratings
+   - Total number of reviews per category
+   - Total potential revenue by category, etc.
+
 
